@@ -142,3 +142,14 @@ Target international markets early
 Use median and percentile-based metrics rather than averages
 
 Avoid over-investing in low-tier films without breakout potential
+
+## Repository Structure
+├── data/                # Raw and cleaned datasets
+├── notebooks/           # Jupyter notebooks for analysis
+├── visuals/             # Generated charts and plots
+├── src/                 # Supporting scripts
+└── README.md            # Project documentation
+
+### Final Note
+
+This analysis demonstrates that success in the modern film industry is driven by strategic risk-taking, global appeal, and data-informed decision-making, rather than volume-based production or reliance on average performance indicators.
