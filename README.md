@@ -21,7 +21,7 @@ The goal of this analysis is to determine:
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 The dataset is compiled from publicly available and industry-recognized sources:
 
 - **Box Office Mojo** – Domestic and foreign box office revenue  
