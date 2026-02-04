@@ -1,4 +1,4 @@
-# Group7---Phase-2
+# Group7 Phase-2 Project
 
 # 🎬 Movie Industry Statistical Analysis  
 ## Studio Strategy & Risk-Aware Market Entry
