@@ -145,10 +145,11 @@ Avoid over-investing in low-tier films without breakout potential
 
 ## Repository Structure
 ├── data/                # Raw and cleaned datasets
-├── notebooks/           # Jupyter notebooks for analysis
+├── film_performance.ipynb    # Jupyter notebooks for analysis
 ├── visuals/             # Generated charts and plots
 ├── src/                 # Supporting scripts
 └── README.md            # Project documentation
+|__ .gitignore
 
 ### Final Note
 
