@@ -21,13 +21,20 @@ The goal of this analysis is to determine:
 
 ---
 
-##  Dataset Description
-The dataset is compiled from publicly available and industry-recognized sources:
+### Dataset Descriptions
 
-- **Box Office Mojo** – Domestic and foreign box office revenue  
-- **IMDb** – User ratings and vote counts  
-- **Rotten Tomatoes** – Critical reception  
-- **The Movie Database (TMDb)** – Popularity scores, genres, and metadata  
+- **bom.movie_gross'**  
+  Box Office Mojo data containing domestic, foreign, and worldwide gross revenue.
+
+- **`tmdb.movies_cleaned.csv'**  
+  TMDb movie metadata including popularity scores, genres, languages, and audience ratings.
+
+- **`tn.movie_budgets.csv`**  
+  Production budgets and revenue figures used for return on investment (ROI) analysis.
+
+- **IMDb Database (optional)**  
+  Intended for use via SQLite for extended ratings and vote-level analysis.
+ 
 
 These platforms aggregate data from industry reports, critics, and user contributions, making the dataset suitable for analyzing relationships between **movie characteristics, reception, and commercial performance**.
 
