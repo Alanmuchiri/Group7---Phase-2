@@ -65,6 +65,8 @@ The Tableau dashboard was used to:
 
 This allowed non-technical stakeholders to explore trends dynamically and validate statistical findings derived from Python analysis.
 
+Below is a link to the various sheets , the dashboard and the story in tableau public :
+* https://public.tableau.com/app/profile/layla.isse5307/viz/Film_Performance/TotalNetGrossbyStudioTopStudios
 
 ## Key Statistical Findings
 ### Revenue Distribution
