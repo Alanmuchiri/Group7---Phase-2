@@ -23,16 +23,16 @@ The goal of this analysis is to determine:
 
 ### Dataset Descriptions
 
-- **bom.movie_gross'**  
+- **`bom.movie_gross.csv`**  
   Box Office Mojo data containing domestic, foreign, and worldwide gross revenue.
 
-- **`tmdb.movies_cleaned.csv'**  
+- **`tmdb.movies_cleaned.csv`**  
   TMDb movie metadata including popularity scores, genres, languages, and audience ratings.
 
 - **`tn.movie_budgets.csv`**  
   Production budgets and revenue figures used for return on investment (ROI) analysis.
 
-- **IMDb Database (optional)**  
+- **`IMDb Database`**  
   Intended for use via SQLite for extended ratings and vote-level analysis.
  
 
