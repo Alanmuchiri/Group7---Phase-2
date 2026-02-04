@@ -166,7 +166,7 @@ Use median and percentile-based metrics rather than averages
 Avoid over-investing in low-tier films without breakout potential
 
 ## Repository Structure
-├── data/                # Raw and cleaned datasets
+├── data/                * Raw and cleaned datasets
 ├── film_performance.ipynb    # Jupyter notebooks for analysis
 ├── visuals/             # Generated charts and plots
 ├── src/                 # Supporting scripts
