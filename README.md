@@ -53,6 +53,19 @@ import ast
 import _sqlite3
 ```
 
+##  Tableau Dashboard
+
+In addition to Python-based visualizations using Matplotlib and Seaborn, an interactive Tableau dashboard was created to enhance exploratory analysis and stakeholder communication.
+
+The Tableau dashboard was used to:
+- Compare domestic vs foreign revenue distributions
+- Visualize ROI concentration and blockbuster impact
+- Explore genre performance across revenue and popularity
+- Identify skewness and outliers through interactive filtering
+
+This allowed non-technical stakeholders to explore trends dynamically and validate statistical findings derived from Python analysis.
+
+
 ## Key Statistical Findings
 ### Revenue Distribution
 
