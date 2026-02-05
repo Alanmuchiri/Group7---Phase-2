@@ -66,7 +66,7 @@ The Tableau dashboard was used to:
 This allowed non-technical stakeholders to explore trends dynamically and validate statistical findings derived from Python analysis.
 
 Below is a link to the various sheets , the dashboard and the story in tableau public :
-* https://public.tableau.com/app/profile/layla.isse5307/viz/Film_Performance/TotalNetGrossbyStudioTopStudios
+* [https://public.tableau.com/app/profile/layla.isse5307/viz/Film_Performance/TotalNetGrossbyStudioTopStudios](https://public.tableau.com/views/Film_Performance/MovieProfitabilityWhatDrivesFinancialSuccess?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Statistical Findings
 ### Revenue Distribution
@@ -131,39 +131,56 @@ These genres consistently perform well in both domestic and foreign markets.
 
 ## Key Conclusions
 
-Foreign revenue > Domestic revenue
+Revenue success is highly uneven
+Movie revenues are heavily skewed, with a small number of films generating a disproportionate share of total industry returns.
 
-Revenue success is not evenly distributed
+The industry is hit-driven
+Blockbuster films vastly outperform low- and mid-tier releases, particularly in the domestic market.
 
-The industry is hit-driven, especially in the domestic market
+Foreign revenue dominates domestic revenue
+International box office consistently exceeds domestic earnings and is the primary driver of overall profitability.
 
-Blockbusters generate massive ROI compared to low- and mid-tier films
+Release timing has a significant impact
+Films released during summer and winter (holiday periods) tend to achieve higher profits compared to off-season releases.
 
-Average metrics (means) are misleading due to extreme skewness
+Large budgets do not guarantee profitability
+Higher production budgets increase financial risk and do not reliably result in higher returns.
+
+Audience ratings offer limited differentiation
+Most films cluster between ratings of 6–8 regardless of popularity or revenue performance.
+
+Mass appeal is genre-driven
+Action, adventure, and fantasy genres consistently dominate audience demand and revenue outcomes.
+
+Average metrics are misleading
+Mean revenue and profit figures are distorted by extreme outliers; median and percentile-based measures provide more reliable insights.
 
 ## Strategic Implications for a New Studio
 
-From a studio strategy perspective:
+Profitability depends on rare breakout hits, not steady moderate performance.
 
-Profitability depends on rare breakout hits
+Financial risk is highly concentrated, rather than evenly distributed across projects.
 
-Risk is concentrated, not evenly spread
+Decisions based solely on average revenue metrics can lead to systematic capital misallocation.
 
-Decisions based purely on average revenue are unreliable
+While the movie market is structurally growing, strong performance depends on quality, genre selection, and release timing.
 
 ## Recommendations
 
-To compete effectively while managing risk, a new studio should:
+Design films for the global market first
+Prioritize international appeal in storytelling, casting, and distribution strategies.
 
-Focus on high-impact, globally appealing films
+Allocate resources to high-potential titles
+Focus marketing and distribution efforts on films with clear blockbuster characteristics.
 
-Prioritize sequels, franchises, and proven genres
+Exploit peak release windows
+Reserve summer and holiday periods for high-budget, mass-appeal films; use off-season slots for lower-budget or experimental projects.
 
-Target international markets early
+Adopt ROI-driven decision-making
+Evaluate projects using expected ROI and percentile-based performance metrics rather than averages.
 
-Use median and percentile-based metrics rather than averages
-
-Avoid over-investing in low-tier films without breakout potential
+Build long-term franchises
+Prioritize sequels and proven genres, treating successful films as long-term assets rather than one-off wins.
 
 ## Repository Structure
 ├── data/                * Raw and cleaned datasets
