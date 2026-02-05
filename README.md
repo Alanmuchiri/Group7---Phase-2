@@ -121,35 +121,35 @@ High popularity does not guarantee high revenue, but blockbusters often combine 
 
 The three most commercially successful and popular genres are:
 
-Action
+  * Action
 
-Adventure
+  * Adventure
 
-Animation
+  * Animation
 
 These genres consistently perform well in both domestic and foreign markets.
 
 ## Key Conclusions
 
-Revenue success is highly uneven
+* Revenue success is highly uneven
 Movie revenues are heavily skewed, with a small number of films generating a disproportionate share of total industry returns.
 
-The industry is hit-driven
+* The industry is hit-driven
 Blockbuster films vastly outperform low- and mid-tier releases, particularly in the domestic market.
 
-Foreign revenue dominates domestic revenue
+* Foreign revenue dominates domestic revenue
 International box office consistently exceeds domestic earnings and is the primary driver of overall profitability.
 
-Release timing has a significant impact
-Films released during summer and winter (holiday periods) tend to achieve higher profits compared to off-season releases.
+* Release timing has a significant impact
+Films released during summer(June - August) and winter (holiday periods around Nov - Dec) tend to achieve higher profits compared to off-season releases.
 
-Large budgets do not guarantee profitability
+* Large budgets do not guarantee profitability
 Higher production budgets increase financial risk and do not reliably result in higher returns.
 
-Audience ratings offer limited differentiation
+* Audience ratings offer limited differentiation
 Most films cluster between ratings of 6–8 regardless of popularity or revenue performance.
 
-Mass appeal is genre-driven
+* Mass appeal is genre-driven
 Action, adventure, and fantasy genres consistently dominate audience demand and revenue outcomes.
 
 Average metrics are misleading
@@ -157,29 +157,29 @@ Mean revenue and profit figures are distorted by extreme outliers; median and pe
 
 ## Strategic Implications for a New Studio
 
-Profitability depends on rare breakout hits, not steady moderate performance.
+* Profitability depends on rare breakout hits, not steady moderate performance.
 
-Financial risk is highly concentrated, rather than evenly distributed across projects.
+* Financial risk is highly concentrated, rather than evenly distributed across projects.
 
-Decisions based solely on average revenue metrics can lead to systematic capital misallocation.
+* Decisions based solely on average revenue metrics can lead to systematic capital misallocation.
 
-While the movie market is structurally growing, strong performance depends on quality, genre selection, and release timing.
+* While the movie market is structurally growing, strong performance depends on quality, genre selection, and release timing.
 
 ## Recommendations
 
-Design films for the global market first
+* Design films for the global market first
 Prioritize international appeal in storytelling, casting, and distribution strategies.
 
-Allocate resources to high-potential titles
+* Allocate resources to high-potential titles
 Focus marketing and distribution efforts on films with clear blockbuster characteristics.
 
-Exploit peak release windows
+* Exploit peak release windows
 Reserve summer and holiday periods for high-budget, mass-appeal films; use off-season slots for lower-budget or experimental projects.
 
-Adopt ROI-driven decision-making
+* Adopt ROI-driven decision-making
 Evaluate projects using expected ROI and percentile-based performance metrics rather than averages.
 
-Build long-term franchises
+* Build long-term franchises
 Prioritize sequels and proven genres, treating successful films as long-term assets rather than one-off wins.
 
 ## Repository Structure
